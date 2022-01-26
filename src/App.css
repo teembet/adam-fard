@@ -1,0 +1,34 @@
+.header {
+  height: 7vh;
+  width: 100%;
+  background-color: rgb(15, 56, 94);
+}
+
+.header-text {
+  color: rgb(15, 56, 94);
+}
+
+.right-side {
+  height: 70vh;
+}
+
+.card-display {
+  height: 20vh;
+}
+
+.bottom {
+  height: 60vh;
+}
+
+.bolder {
+  font-weight: 900;
+  color: rgb(15, 56, 94);
+}
+
+.flex-display {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 0.5em;
+}
